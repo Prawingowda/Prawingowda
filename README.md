@@ -3,8 +3,10 @@
 
 I am prawin gowda cs
 
-
-i am java developer
+Java Backend Developer | Spring Boot | REST APIs
+MySQL | Hibernate | Maven | Git
+Basic AWS (EC2, S3, IAM)
+Open to Java Backend Developer Opportunities
 
 <!--
 **Prawingowda/Prawingowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
