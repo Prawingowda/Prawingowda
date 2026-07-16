@@ -4,7 +4,7 @@
 I am prawin gowda cs
 
 Java Backend Developer passionate about building scalable REST APIs using Spring Boot.
-Currently exploring AWS cloud services and continuously improving my backend development s
+Currently exploring AWS cloud services and continuously improving my backend developments
 
 | Spring Boot | REST APIs
 
