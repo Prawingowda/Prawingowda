@@ -7,6 +7,7 @@ Java Backend Developer passionate about building scalable REST APIs using Spring
 Currently exploring AWS cloud services and continuously improving my backend development s
 
 | Spring Boot | REST APIs
+
 MySQL | Hibernate | Maven | Git
 
 Basic AWS (EC2, S3, IAM)
