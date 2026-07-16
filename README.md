@@ -3,9 +3,13 @@
 
 I am prawin gowda cs
 
-Java Backend Developer | Spring Boot | REST APIs
+Java Backend Developer 
+
+| Spring Boot | REST APIs
 MySQL | Hibernate | Maven | Git
+
 Basic AWS (EC2, S3, IAM)
+
 Open to Java Backend Developer Opportunities
 
 <!--
