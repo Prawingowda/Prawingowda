@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I am prawin gowda cs
+i am java developer
+
 <!--
 **Prawingowda/Prawingowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
